@@ -1,0 +1,3 @@
+웹서버가 html로 프론트엔드에 접속 -> 백엔드(Spring,php,Node,Python)에 ajax로 데이터요청
+
+  -->백엔드에 proxy로 다른 프로그램들이 접속하려함.. 

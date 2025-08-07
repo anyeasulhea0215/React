@@ -1,0 +1,21 @@
+# Windows, Mac 공통
+
+## 서버 설치
+
+> npm install -g https://github.com/leekh4232/hossam-server.git
+
+## 서버 삭제
+
+> npm uninstall -g hossam-server
+
+# Mac에서 permission 에러가 나는 경우
+
+명령어 앞에 `sudo` 옵션 추가
+
+## 서버 설치
+
+> sudo npm install -g https://github.com/leekh4232/hossam-server.git
+
+## 서버 삭제
+
+> sudo npm uninstall -g hossam-server
